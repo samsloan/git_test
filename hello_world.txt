@@ -1,1 +1,2 @@
 Here is a test piece of text.
+Here is a second piece of code for my second commit.
